@@ -55,3 +55,6 @@ Select **Send continuously** to repeat the current request after each response. 
 - If the connection fails, ensure the selected COM port is not in use by another application.
 - If the device does not respond, verify the slave ID, baud rate, data bits, parity, and stop bits against the device configuration.
 - The LED indicates that the serial port is open; a green LED does not guarantee that the selected slave is responding to Modbus requests.
+## Modbus Master GUI
+<img width="1242" height="907" alt="image" src="https://github.com/user-attachments/assets/e6c7a06d-9f00-4c6d-acad-90e3a8f16012" />
+
